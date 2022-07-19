@@ -1,2 +1,2 @@
 # HuaweiOltChecker
-Simple script to ease dayly managment tasks.
+Simple script to ease daily management tasks.
